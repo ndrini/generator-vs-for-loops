@@ -15,4 +15,3 @@ Generator versus for loop
 
 Comment actual ping_pong function and uncomment the second version of the ping_pong fuction.
 
-
